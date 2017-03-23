@@ -8,6 +8,8 @@ import javax.ws.rs.core.MediaType;
 /**
  * Root resource (exposed at "myresource" path)
  */
+// Random Github comments
+
 @Path("myresource")
 public class MyResource {
 
